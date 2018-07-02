@@ -1,12 +1,12 @@
-# Period-1  
+# Period-1  (Fall 2018)
 ### Basic JavaScript, es2015, node.js, ESLint, TypeScript, Babel and WebPack
 
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. 
 We will focus on the newest versions of JavaScript and what it takes to use it, both on the server and on clients (Babel & WebPack).*
 
-[Learning Goals Period1](https://docs.google.com/document/d/1wVgKnShkqIf-BilnXqwMub4jHS_RqLkoUcWajtItrq0/edit?usp=sharing)
+[Learning Goals Period1 - TBD](#)
 
-# **31-01-Wednesday** 
+# **20-08-Monday** 
 * A quick intro to the semester
 * Vanilla JavaScript and es2015/16
 * An introduction to Node.JS
@@ -24,7 +24,7 @@ We will focus on the newest versions of JavaScript and what it takes to use it, 
 
 **Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:** [Node-introduction](http://slides.mydemos.dk/node1/NodeIntro.html#1)  
 
-# **7-2-Wednesday**
+# **27-8 Monday**
 * Vanilla JavaScript Continued
 * NodeJs 
 * Modules and npm
@@ -41,13 +41,13 @@ Or Watch:
 **Exercises:** Complete (as much as you have time for) the exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
 
-**Slides** [npm, node and events](http://slides.mydemos.dk/node2/NodeGettingStarted.html#1)
+**Slides** [npm, node and events - TBD](#)
 
-# **8-2-Thuersday**
+# **31-8-Friday**
 * es2015 Promises, part-1
 * es2016 Async/await, part-1
 
-We will follow up on this topic by the end of the semester
+We will follow up on this topic throughout the semester
 
 ### Before this lesson you should:
 - Watch this [video](https://www.youtube.com/watch?v=s6SH72uAn3Q) (simple, but introduces most concepts) 1+2
@@ -58,7 +58,7 @@ We will follow up on this topic by the end of the semester
 - [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing) 1+2
 - [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing) 1, 2, 3
 
-# **14-2-Wednesday**
+# **3-9-Monday**
 * es2015, es2016 ... 
 * Webpack
 * Bab
@@ -85,7 +85,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) 
 * [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
 
-# 21/2-Wedensday
+# 10/9-Monday
 
 * TypeScript
 
@@ -103,7 +103,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
 
 
-# **22/2-Wednesday**
+# **17/9-Monday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
