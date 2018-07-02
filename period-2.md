@@ -1,11 +1,11 @@
 # Period-2  
-### Node.js Express and Testing with JavaScript   
+### Node.js+Express, Testing with JavaScript, NoSQL with MongoDB and Mongoose
 
 *In this period you will be introduced to Express, a minimal and flexible node.js package, that provides a robust set of features for web and mobile applications. We will also introduce the Mocha test framework together with a number of supplementing packages for assertions, mocking etc. Finally you will be introduced to a new kind of databases - NoSQL Databases, with mongoDB as the document database we are going to use  *
 
 [Learning Goals Period 2](https://docs.google.com/document/d/1D2TjYkUTUDgqRf37yg_xZLxLNGD-hFw1t8nPCP2X4Vc/edit?usp=sharing)
 
-## 28-02-Wednesday
+## 17-9 - Monday
 * a quick introduction to Express, MongoDB and Mongoose
 * Using Express
 * Express Middleware
@@ -23,7 +23,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 
 **Slides:** [Express intro](http://slides.mydemos.dk/express1/express1.html#1)
 
-## 7-03- Wednesday
+## 21-09- Friday
 * Express Continued
 * Server Side Rendering Libraries
 * REST with node/Express
@@ -37,7 +37,7 @@ Skim the [Express Website](https://expressjs.com/en/starter/installing.html), es
 **Exercises:**
 * [middleware,server side rendering,sessions and REST](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
 
-## 08-03-Thuersday
+## 24-9 - Monday
 * JavaScript Testing
 * JavaScript Backend Testing using Mocha
 * Testing asynchronous code
@@ -65,7 +65,7 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 [Slides](http://slides.mydemos.dk/test1/unitTestingBackend.html#1)
 
 
-## 14-3 Wednesday
+## 1-10 - Monday
 An introduction to NoSQL, MongoDB and Mongoose
 
 #### Before this lesson you should:
@@ -90,7 +90,7 @@ Usually I will always recommend a local database for development. Since however,
 #### Slides
 [Mongo/Mongoose Slides](http://slides.mydemos.dk/noSQL/mongo_mongoose.html#1)
 
-# 21-03-Wednesday
+# 08-10 - Monday
 #### Before this lesson you should Read/Watch:
 Skim part1-2 and read part-3 in [6 Rules of Thumb for MongoDB Schema Design](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
@@ -99,13 +99,13 @@ We will implement the mongoose models for the [mini project](https://docs.google
 ### Exercises
 [Mini Project, part1](https://docs.google.com/document/d/1IkNwMmGrvUz8y6J8gw3ekZ-PZBXKaPt566W4gTote4w/edit?usp=sharing)
 
-# 22-3-Thuersday
+# 12-10 -Friday
 ### Mini Project - part1
 
 [Mini Project, part1](https://docs.google.com/document/d/1IkNwMmGrvUz8y6J8gw3ekZ-PZBXKaPt566W4gTote4w/edit?usp=sharing)
 
 **Period Milestones:**
-* Period Hand-in: April 1 18.00
-* Hand-in Document [Add your git-links here](https://docs.google.com/spreadsheets/d/1YQq59Te5jEkl_oJnSF-37sZV1_dFd-iyD_iVrZb9Ev4/edit?usp=sharing):  
+* Period Hand-in: TBD
+* Hand-in Document TBD  [Add your git-links here](#):  
 
 
