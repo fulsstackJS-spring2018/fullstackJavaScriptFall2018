@@ -44,8 +44,8 @@ Hints: You should really try hard before this, but all solutions can be found he
 **Slides** [npm, node and events - TBD](#)
 
 # **31-8-Friday**
-* es2015 Promises, part-1
-* es2016 Async/await, part-1
+* es2015 Promises
+* es2016 Async/await
 
 We will follow up on this topic throughout the semester
 
